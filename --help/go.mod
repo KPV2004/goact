@@ -1,0 +1,7 @@
+module --help
+
+go 1.22.0
+
+// TODO: Replace with published goact version when available
+// or ask user to run: go mod edit -replace github.com/yourusername/goact=../path/to/goact
+require github.com/yourusername/goact v0.1.0
